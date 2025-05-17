@@ -1,0 +1,6 @@
+Severity_id,severity_title
+1,minor
+2,non-urgent
+3,standard
+4,urgent
+5,critical
